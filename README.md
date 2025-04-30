@@ -18,3 +18,9 @@ This project demonstrates how to predict a student's test score based on the num
 - **pandas** for data manipulation.
 - **scikit-learn** for Linear Regression model.
 - **matplotlib** for visualisation (optional).
+
+## Dependencies
+- `pandas`
+- `scikit-learn`
+- `matplotlib`
+
