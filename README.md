@@ -1,4 +1,6 @@
-# Student Score Prediction
+# Student Score Prediction Using Linear Regression
+
+This project uses linear regression to predict a student's score based on the number of hours they studied.
 
 This project demonstrates how to predict a student's test score based on the number of hours they studied using **Linear Regression**.
 
